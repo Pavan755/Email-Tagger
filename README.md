@@ -30,12 +30,12 @@ This produces stable, predictable, explainable results.
 
 ⭐ Key Features
 
--✨ Customer-specific tagging
--✨ Rule-based deterministic prediction
--✨ ML fallback for unseen patterns
--✨ Zero cross-customer contamination
--✨ Low-confidence guardrail (needs_manual_review)
--✨ Fully explainable & easy to extend
+✨ Customer-specific tagging
+✨ Rule-based deterministic prediction
+✨ ML fallback for unseen patterns
+✨ Zero cross-customer contamination
+✨ Low-confidence guardrail (needs_manual_review)
+✨ Fully explainable & easy to extend
 
 🧠 Architecture Overview
 Incoming Email
