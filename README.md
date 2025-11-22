@@ -3,20 +3,20 @@
 <p align="left"> <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/ML-Naive%20Bayes-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/NLP-TF--IDF-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Notebook-Colab%20%7C%20Jupyter-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"> </p>
 👤 Author
 
-B. Pavan Kumar
+~~B. Pavan Kumar
 
 📘 Project Overview
 
 This project builds an intelligent email tagging system designed for a multi-tenant environment.
 Each customer has:
 
-Their own tags
+-Their own tags
 
-Their own model
+-Their own model
 
-Their own rules
+-Their own rules
 
-This ensures zero tag-leakage and highly accurate tagging, even with a tiny dataset.
+-This ensures zero tag-leakage and highly accurate tagging, even with a tiny dataset.
 
 The system uses a hybrid classification approach:
 
