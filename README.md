@@ -2,6 +2,7 @@
 🧠 NLP · 📩 Email Classification · 🛡️ Customer Isolation · ⚙️ Hybrid ML
 <p align="left"> <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/ML-Naive%20Bayes-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/NLP-TF--IDF-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Notebook-Colab%20%7C%20Jupyter-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"> </p>
 👤 Author
+   
    B. Pavan Kumar
 
 📘 Project Overview
